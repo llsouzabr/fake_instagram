@@ -1,1 +1,3 @@
 https://nodeontrain.xyz/tuts/secure_password/   => Dicas para sequelize
+
+https://blog.rocketseat.com.br/nodejs-express-sequelize/ => dicas Sequelize
